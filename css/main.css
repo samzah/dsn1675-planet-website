@@ -22,3 +22,10 @@ a:hover {
 	background-color: grey;
 }
 
+footer li{
+	display: inline;
+}
+
+footer a{
+	display: inline;
+}
